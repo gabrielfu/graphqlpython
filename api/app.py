@@ -1,5 +1,5 @@
 import uvicorn
-from fastapi import APIRouter, Depends, FastAPI
+from fastapi import FastAPI
 from starlette_graphene3 import GraphQLApp, make_graphiql_handler
 from db import init_db, db_session
 from schema import schema

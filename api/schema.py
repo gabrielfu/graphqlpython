@@ -3,7 +3,6 @@ from graphene import relay
 from graphene_sqlalchemy import SQLAlchemyConnectionField, SQLAlchemyObjectType
 from models import ActorModel, MovieModel
 
-
 class Actor(SQLAlchemyObjectType):
     class Meta:
         model = ActorModel

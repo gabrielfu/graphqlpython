@@ -1,8 +1,7 @@
 from sqlalchemy import Column, Integer, Float, String, ForeignKey
-from sqlalchemy.orm import relationship, backref
+from sqlalchemy.orm import relationship
 from sqlalchemy.schema import Table
 from db import Base
-
 
 actor_movie_association = Table(
     "actor_movie",
