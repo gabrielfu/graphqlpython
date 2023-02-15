@@ -12,7 +12,6 @@ RUN pip install -r ./requirements.txt
 
 COPY . .
 ENV PATH="/app:${PATH}"
-ENV POSTGRES_DB_URI="postgresql://user:123456@postgres:5432/imdb_db"
 ENV FIXTURE_MOVIES_PATH="/app/data/imdb/movies.csv"
 ENV FIXTURE_ACTORS_PATH="/app/data/imdb/actors.csv"
 ENV FIXTURE_ASSOCIATION_PATH="/app/data/imdb/actor_movie.csv"
