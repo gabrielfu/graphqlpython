@@ -3,7 +3,6 @@ import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import scoped_session, sessionmaker
-from typing import Dict
 
 POSTGRES_DB_URI = os.environ.get("POSTGRES_DB_URI", "postgresql://user:123456@localhost:5432/imdb_db")
 FIXTURE_MOVIES_PATH = os.environ.get("FIXTURE_MOVIES_PATH", "../data/imdb/movies.parquet")
