@@ -20,7 +20,7 @@ def init_db():
     # import all modules here that might define models so that
     # they will be registered properly on the metadata.  Otherwise
     # you will have to import them first before calling init_db()
-    from models import NameModel, TitleModel
+    from models import ActorModel, MovieModel
 
     Base.metadata.drop_all(bind=engine)
     Base.metadata.create_all(bind=engine)
@@ -28,17 +28,10 @@ def init_db():
     def add_fixture(Model, fields: Dict):
         db_session.add(Model(**fields))
 
-    for _, row in pd.read_csv(FIXTURE_NAME_PATH).iterrows():
-        rowdict = row.to_dict()
-        rowdict["deathYear"] = None
-        rowdict["birthYear"] = int(rowdict["birthYear"]) if not pd.isna(rowdict["birthYear"]) else None
-        add_fixture(NameModel, rowdict)
+    for _, row in pd.read_parquet(FIXTURE_ACTORS_PATH).iterrows():
+        add_fixture(ActorModel, row.to_dict())
 
-    for _, row in pd.read_csv(FIXTURE_TITLE_PATH).iterrows():
-        rowdict = row.to_dict()
-        rowdict["director_id"] = [rowdict["directors"]]
-        del rowdict["directors"]
-        del rowdict["writers"]
-        add_fixture(TitleModel, rowdict)
+    for _, row in pd.read_parquet(FIXTURE_MOVIES_PATH).iterrows():
+        add_fixture(MovieModel, row.to_dict())
 
     db_session.commit()
