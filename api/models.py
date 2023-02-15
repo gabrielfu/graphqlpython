@@ -1,22 +1,23 @@
-from sqlalchemy import Column, Integer, String
-from sqlalchemy.orm import relationship
-from api.db import Base
+from sqlalchemy import Column, Integer, Float, String, ForeignKey
+from sqlalchemy.orm import relationship, backref
+from db import Base
 
-class NameModel(Base):
-    __tablename__ = "name"
-    __table_args__ = {'extend_existing': True}
-    nconst = Column(String, primary_key=True)
-    primaryName = Column(String)
-    birthYear = Column(Integer, nullable=True)
-    deathYear = Column(Integer, nullable=True)
 
-class TitleModel(Base):
-    __tablename__ = 'title'
-    __table_args__ = {'extend_existing': True}
-    tconst = Column(String, primary_key=True)
-    primaryTitle = Column(String)
-    startYear = Column(Integer)
-    runtimeMinutes = Column(Integer)
+class ActorModel(Base):
+    __tablename__ = "actor"
+    id = Column(String, primary_key=True)
+    primary_name = Column(String)
+    birth_year = Column(Integer)
+
+
+class MovieModel(Base):
+    __tablename__ = 'movie'
+    id = Column(String, primary_key=True)
+    primary_title = Column(String)
+    start_year = Column(Integer)
+    runtime_minutes = Column(Integer)
     region = Column(String)
-    directors = relationship(NameModel, uselist=True)
-    writers = relationship(NameModel, uselist=True)
+    average_rating = Column(Float)
+    num_votes = Column(Integer)
+    actor_id = Column(String, ForeignKey("actor.id"))
+    actors = relationship(ActorModel, backref=backref("actor", uselist=True, cascade="delete,all"))

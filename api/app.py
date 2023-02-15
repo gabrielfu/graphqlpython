@@ -1,6 +1,6 @@
 import uvicorn
 from fastapi import APIRouter, Depends, FastAPI
-from api.db import init_db, db_session
+from db import init_db, db_session
 
 app = FastAPI()
 app.debug = True
