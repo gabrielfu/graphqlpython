@@ -4,7 +4,4 @@ uvicorn[standard]~=0.20.0
 graphene~=3.2.1
 graphene-sqlalchemy~=3.0.0b3
 starlette-graphene3~=0.6.0
-pandas~=1.5.3
-fastparquet~=2023.2.0
-pyarrow~=11.0.0
 psycopg2~=2.9.5
