@@ -1,17 +1,29 @@
 from sqlalchemy import Column, Integer, Float, String, ForeignKey
 from sqlalchemy.orm import relationship, backref
+from sqlalchemy.schema import Table
 from db import Base
+
+
+ActorMovie = Table(
+    "actor_movie",
+    Base.metadata,
+    Column("actor_id", ForeignKey("actor.id"), primary_key=True),
+    Column("movie_id", ForeignKey("movie.id"), primary_key=True),
+)
 
 
 class ActorModel(Base):
     __tablename__ = "actor"
+
     id = Column(String, primary_key=True)
     primary_name = Column(String)
     birth_year = Column(Integer)
+    movies = relationship("MovieModel", secondary=ActorMovie, back_populates="actors")
 
 
 class MovieModel(Base):
-    __tablename__ = 'movie'
+    __tablename__ = "movie"
+
     id = Column(String, primary_key=True)
     primary_title = Column(String)
     start_year = Column(Integer)
@@ -19,5 +31,4 @@ class MovieModel(Base):
     region = Column(String)
     average_rating = Column(Float)
     num_votes = Column(Integer)
-    actor_id = Column(String, ForeignKey("actor.id"))
-    actors = relationship(ActorModel, backref=backref("actor", uselist=True, cascade="delete,all"))
+    actors = relationship("ActorModel", secondary=ActorMovie, back_populates="movies")
