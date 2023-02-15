@@ -1,6 +1,11 @@
 version: "3"
 
 services:
+  api:
+    build: .
+    ports:
+      - 8000:8000
+
   postgres:
     image: postgres:14.5-alpine
     restart: always
