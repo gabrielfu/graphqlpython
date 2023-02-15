@@ -4,7 +4,7 @@ from sqlalchemy.schema import Table
 from db import Base
 
 
-ActorMovie = Table(
+actor_movie_association = Table(
     "actor_movie",
     Base.metadata,
     Column("actor_id", ForeignKey("actor.id"), primary_key=True),
@@ -18,7 +18,7 @@ class ActorModel(Base):
     id = Column(String, primary_key=True)
     primary_name = Column(String)
     birth_year = Column(Integer)
-    movies = relationship("MovieModel", secondary=ActorMovie, back_populates="actors")
+    movies = relationship("MovieModel", secondary=actor_movie_association, back_populates="actors")
 
 
 class MovieModel(Base):
@@ -31,4 +31,4 @@ class MovieModel(Base):
     region = Column(String)
     average_rating = Column(Float)
     num_votes = Column(Integer)
-    actors = relationship("ActorModel", secondary=ActorMovie, back_populates="movies")
+    actors = relationship("ActorModel", secondary=actor_movie_association, back_populates="movies")
