@@ -2,6 +2,8 @@
 This is a toy example of GraphQL FastAPI server for a modified version of 
 [IMDB dataset](https://www.imdb.com/interfaces/), retrieved on 15 Feb 2023.
 
+The backend database is a PostgreSQL db. 
+
 ## Usage
 Run server:
 ```shell
