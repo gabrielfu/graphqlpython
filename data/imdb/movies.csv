@@ -1,77 +1,543 @@
 id,primary_title,start_year,runtime_minutes,region,average_rating,num_votes
-tt10152200,Bellezonismo,2019,97,US,1.9,178
-tt10188148,The Exorcist Nurse,2018,94,GB,4.4,10
-tt10860558,Commitment,2019,135,US,5.0,414
-tt10996896,Gundu,2019,141,GB,7.2,999
-tt11100434,Wilder vs. Ortiz,2019,270,US,7.1,9
-tt1116183,Carmen's Kiss,2010,90,US,3.2,143
-tt1283959,The Symmetry of Love,2010,81,GB,6.3,99
-tt1413492,12 Strong,2018,130,GB,6.5,84221
-tt1465851,Photographic,2012,81,US,3.9,38
-tt1512276,That Side of a Shadow,2010,97,US,8.1,15
-tt1639081,"The Banksters, Madoff with America",2013,110,US,6.2,40
-tt1640714,The Christmas Bunny,2010,98,US,6.0,838
-tt1656186,Stolen,2012,96,US,5.5,45510
-tt1730669,2 Graves,2013,105,GB,6.8,6
-tt1737683,Something to Share,2010,85,US,7.1,25
-tt1754442,Román pro muze,2010,100,US,5.0,190
-tt1848824,Claustrofobia,2011,94,GB,5.6,1051
-tt1886770,Silent Summer,2013,89,GB,5.8,68
-tt1931589,Thenmerku Paruvakaatru,2010,125,US,7.1,287
-tt1961192,Marie Krøyer,2012,102,US,6.3,1391
-tt2058597,Cosimo and Nicole,2012,100,GB,6.4,291
-tt2066857,Big Blue Lake,2011,98,GB,5.3,69
-tt2072230,Attack on Titan Part 1,2015,98,GB,5.1,14361
-tt2077886,The Phantom of the Opera at the Royal Albert Hall,2011,137,GB,8.8,9388
-tt2093074,Cass,2013,112,US,7.4,20
-tt2156901,Beautiful World,2012,134,GB,6.2,83
-tt2159988,The Walk,2015,89,GB,6.0,141
-tt2224111,Christmas. Uncensored,2012,86,US,5.5,457
-tt2257816,Midnight Stallion,2013,97,GB,5.1,412
-tt2321309,Gabi,2012,115,GB,5.9,222
-tt2334733,Madame Bovary,2014,118,US,5.7,8501
-tt2334779,Qissa: The Tale of a Lonely Ghost,2013,109,US,6.6,986
-tt2439190,A Mouse Tale,2012,87,GB,4.9,447
-tt2487684,The Ravine of Goodbye,2013,116,GB,6.7,486
-tt2553376,Tokumei Sentai Go-Busters vs. Kaizoku Sentai Gokaiger: The Movie,2013,60,GB,7.2,53
-tt2651924,The Hit Girl,2013,86,GB,7.0,83
-tt2672090,Joe Vampire,2012,67,GB,4.9,47
-tt2737304,Bird Box,2018,124,GB,6.6,350049
-tt2796678,The Opposite Sex,2014,97,US,4.5,1169
-tt2800400,Wild Canaries,2014,96,GB,6.0,489
-tt2966980,All Suspects,2013,113,US,6.7,6
-tt2978626,It's Entertainment,2014,140,US,4.5,8932
-tt3043630,Tiny Times,2013,116,GB,3.2,2344
-tt3112264,Little Pieces,2015,80,GB,7.1,70
-tt3129892,Cryptic,2014,93,US,4.8,226
-tt3530690,"10,000 Days",2014,91,US,2.7,799
-tt3883526,Micky's Summer Resort,2014,98,US,6.2,16
-tt3974764,The Sound of a Flower,2015,109,GB,6.3,262
-tt4136084,Florence Foster Jenkins,2016,111,GB,6.8,57187
-tt4262980,Shin Godzilla,2016,120,US,6.8,29025
-tt4301112,The Depths,2017,89,US,5.2,40
-tt4522922,Tales from the Lodge,2019,93,US,5.4,1058
-tt4659808,The Wolf's Lair,2015,102,US,7.0,69
-tt4718440,Angry Painter,2015,104,GB,4.6,44
-tt4875962,The Spearhead Effect,2017,87,US,5.0,289
-tt4902138,Stealing Sunrise 2: Malibu Trail,2017,99,GB,8.0,18
-tt5109784,Mother!,2017,121,US,6.6,230912
-tt5195412,Wakefield,2016,106,US,6.3,17254
-tt5259790,Party Crashers 2,2017,93,GB,4.4,161
-tt5281018,You Can't Escape Lithuania,2016,80,GB,4.1,218
-tt5804928,The Colorado,2016,86,GB,6.7,27
-tt5997928,Hotel Salvation,2016,102,US,7.0,2262
-tt6079186,Barefoot at Dawn,2017,118,US,6.6,204
-tt6556670,Serial (Bad) Weddings 2,2019,99,US,6.1,8583
-tt6754712,Blood Hunters: Rise of the Hybrids,2019,70,US,6.5,59
-tt6958152,One,2017,148,US,6.1,307
-tt7485508,Carmen & Lola,2018,103,GB,7.0,3014
-tt7549996,Judy,2019,118,GB,6.8,51835
-tt7632930,Trener,2018,138,GB,6.4,1417
-tt7783966,The Challenger Disaster,2019,98,US,5.9,1061
-tt7798644,Judy & Punch,2019,105,US,6.1,2879
-tt7817568,The Sacrifice,2019,135,US,5.9,441
-tt7996170,The Burying Party,2018,60,GB,6.6,135
-tt8564614,The Feminist: A Swedish Inspiration,2018,92,US,6.0,57
-tt9185066,Human Capital,2019,98,GB,5.7,9107
-tt9812530,Warriors of the Nation,2018,95,US,6.1,87
+tt0285252,Bachelor Trip,2012,100,US,3.6,274
+tt0451279,Wonder Woman,2017,141,US,7.4,665113
+tt0455944,The Equalizer,2014,132,US,7.2,377689
+tt0469021,Alan Partridge,2013,90,US,6.9,32209
+tt0485061,U Want Me 2 Kill Him?,2013,92,GB,6.3,3140
+tt0490215,Silence,2016,161,US,7.1,115114
+tt0787474,The Boxtrolls,2014,96,US,6.8,59084
+tt0790636,Dallas Buyers Club,2013,117,US,7.9,494145
+tt0800325,The Dirt,2019,107,US,7.0,51218
+tt0816692,Interstellar,2014,169,US,8.6,1857917
+tt0837563,Pet Sematary,2019,101,US,5.7,93661
+tt0844993,Hoodwinked 2: Hood vs. Evil,2011,87,US,4.7,13372
+tt0878814,December Brides,2012,90,US,4.4,1672
+tt0947810,Green Zone,2010,115,US,6.8,138778
+tt0948470,The Amazing Spider-Man,2012,136,US,6.9,663185
+tt10017680,P Storm,2019,96,US,5.8,737
+tt10055770,Vellai Pookal,2019,122,US,7.1,1806
+tt10080270,Killing Sarai,2019,106,US,5.9,1115
+tt10192308,Desire Game,2019,109,US,3.4,16
+tt10207850,Killer in Law,2018,90,US,4.8,421
+tt1024855,Gunned Down,2017,95,GB,5.1,1219
+tt10255374,Evil Intent,2019,86,US,4.2,294
+tt1041804,The Nutcracker: The Untold Story,2010,110,GB,4.1,3988
+tt1047449,Camp Hell,2010,99,US,3.4,2245
+tt10516086,Vernost,2019,82,GB,5.8,2393
+tt1067773,Game of Assassins,2013,80,US,5.1,2871
+tt10680412,Doctor Death,2019,90,US,4.1,269
+tt10715194,Back to School,2019,83,US,5.3,1313
+tt10783168,The Baby Proposal,2019,89,US,5.7,377
+tt10887504,"Love, Inheritance and Lunch",2019,84,US,6.5,1182
+tt10925770,"Cheer Up, Mr. Lee",2019,111,US,6.9,471
+tt1094666,The Hammer,2010,108,US,6.9,1825
+tt1104001,Tron: Legacy,2010,125,US,6.8,341725
+tt1121986,Money Fight,2012,119,US,3.9,558
+tt1137470,Accidental Love,2015,100,US,4.1,8671
+tt11727004,Pinkfong & Baby Shark's Space Adventure,2019,66,US,5.0,95
+tt1179069,6 Souls,2010,112,GB,6.0,35042
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,2011,130,GB,8.1,885052
+tt1208711,The Misadventures of the Dunderheads,2012,88,US,4.4,343
+tt1222816,Disneynature: Wings of Life,2011,81,US,7.3,649
+tt1245526,RED,2010,111,GB,7.0,312562
+tt1258221,Interrogation of a Husband,2010,87,US,7.4,22
+tt12588262,America: Live at the London Palladium,2019,87,GB,7.8,6
+tt1259521,The Cabin in the Woods,2011,95,US,7.0,425020
+tt1270256,One Night in Berlin,2011,76,GB,7.1,20
+tt1270798,X-Men: First Class,2011,131,US,7.7,698467
+tt1288367,We Will Rock You,2011,85,US,6.4,1049
+tt1289401,Ghostbusters,2016,117,US,6.8,234747
+tt1300854,Iron Man 3,2013,130,US,7.1,857886
+tt1308754,Forbidden Attraction,2010,103,US,4.2,416
+tt1316050,Generosity,2014,119,US,6.6,11
+tt1335992,Jackers,2010,74,US,3.3,503
+tt1337047,Angels in Exile,2016,78,US,7.0,50
+tt1356392,Knockdown,2011,89,US,4.1,270
+tt1375666,Inception,2010,148,US,8.8,2372638
+tt1385543,Dark House,2014,102,US,4.7,2709
+tt1386697,Suicide Squad,2016,123,US,5.9,691883
+tt1391087,Perfect Sunday,2010,87,US,5.5,76
+tt1396484,It,2017,135,US,7.3,557465
+tt1399103,Transformers: Dark of the Moon,2011,154,US,6.2,413713
+tt1402488,Happy Feet Two,2011,117,US,5.8,45738
+tt1412386,The Best Exotic Marigold Hotel,2011,124,GB,7.2,96645
+tt1422800,Beneath the Dark,2010,102,US,5.0,1972
+tt1431045,Deadpool,2016,108,US,8.0,1048669
+tt1433810,Mumbai Diaries,2010,100,US,7.0,13394
+tt1436562,Rio,2011,96,US,6.9,232461
+tt1440379,Virginia,2010,111,US,5.4,2273
+tt1457767,The Conjuring,2013,112,US,7.5,516347
+tt1478839,The Art of Racing in the Rain,2019,109,US,7.5,33137
+tt1480662,Illegal,2010,107,US,7.1,94
+tt1482459,The Lorax,2012,86,US,6.4,116736
+tt1483324,At Middleton,2013,99,US,6.5,8736
+tt1488606,Triple Frontier,2019,125,US,6.4,132188
+tt1489887,Booksmart,2019,102,US,7.1,122148
+tt1512240,Thin Ice,2011,93,US,6.2,5196
+tt1517451,A Star Is Born,2018,136,US,7.6,390615
+tt1532538,Line of Duty,2013,112,US,4.9,878
+tt1536053,First Night,2010,116,GB,5.3,406
+tt1536537,What Happened to Monday,2017,123,GB,6.8,126055
+tt1541123,Astronaut: The Last Push,2012,85,US,5.3,1777
+tt1542484,4 Wedding Planners,2011,77,US,3.7,348
+tt1546036,The Drawn Together Movie!,2010,70,US,6.1,4407
+tt1548599,The Voice of the Voiceless,2013,80,US,7.7,86
+tt1568346,The Girl with the Dragon Tattoo,2011,158,US,7.8,468999
+tt1582268,The Love Guide,2011,78,US,3.8,340
+tt1587685,Decline of an Empire,2014,110,US,3.4,466
+tt1610452,Band Baaja Baaraat,2010,139,GB,7.2,17277
+tt1610525,Chuck,2016,98,US,6.5,6555
+tt1613873,Kingdom of Dust: Beheading of Adam Smith,2011,95,GB,5.0,92
+tt1620680,A Wrinkle in Time,2018,109,US,4.2,45784
+tt1623288,ParaNorman,2012,92,US,7.0,104684
+tt1632703,Burzynski: Cancer Is Serious Business,2010,108,US,7.4,879
+tt1637706,Our Idiot Brother,2011,90,US,6.4,88922
+tt1638277,Mars and April,2012,90,US,5.8,858
+tt1641401,Louder Than Words,2013,95,US,6.0,1155
+tt1643239,The Goa Run,2014,112,GB,7.4,67
+tt1645131,Romeo & Juliet,2013,118,US,5.8,12144
+tt1645155,Erased,2012,100,GB,6.0,31641
+tt1648062,Cowboys Vs. Vampires,2010,94,US,2.6,405
+tt1650043,Diary of a Wimpy Kid: Rodrick Rules,2011,100,US,6.5,32849
+tt1650060,SGT. Will Gardner,2019,125,US,5.9,1126
+tt1650062,Super 8,2011,112,US,7.0,357045
+tt1659276,The Neighbor,2010,105,US,6.7,30
+tt1670916,The Box Cutter,2013,100,US,6.0,86
+tt1681370,The Algerian,2014,99,US,5.7,232
+tt1686821,Vampire Academy,2014,104,US,5.4,55532
+tt1690542,Final Sale,2011,91,US,5.5,283
+tt1690967,Come Sunday,2018,106,US,6.0,2384
+tt1691153,Return to the Hiding Place,2013,102,US,4.8,754
+tt1697064,Deadly Code,2013,110,US,6.3,7877
+tt1698648,Girl Most Likely,2012,103,US,5.7,15598
+tt1699755,Peeples,2013,95,US,5.3,4953
+tt1709652,Dragon Age: Dawn of the Seeker,2012,90,US,5.7,3010
+tt1721494,"Few Options, All Bad",2011,90,US,5.8,516
+tt1727824,Bohemian Rhapsody,2018,134,GB,7.9,546134
+tt1728981,Memories of a Lost Love,2011,84,US,6.6,81
+tt1733260,Silver or Lead,2010,105,US,6.7,34
+tt1735233,Vivid,2011,80,US,3.8,352
+tt1754478,Servitude,2011,85,GB,5.0,305
+tt1757746,Extracted,2012,89,US,6.4,12272
+tt1759660,Trouble in the Heights,2011,90,US,6.6,106
+tt1770675,Nobody Gets Out Alive,2012,77,US,3.1,854
+tt1772271,"3, 2, 1... Frankie Go Boom",2012,89,US,5.9,5081
+tt1799557,Pretty Bad Actress,2012,85,US,7.2,52
+tt1800240,Phobia,2013,84,US,3.5,237
+tt1810833,My SO Has Got Depression,2011,121,US,6.7,683
+tt1821426,Family Weekend,2013,105,US,6.2,7009
+tt1823231,The Inflicted,2012,87,US,3.3,196
+tt1825683,Black Panther,2018,134,US,7.3,784979
+tt1833116,The Informer,2019,113,GB,6.6,38744
+tt1842356,Entity,2012,87,GB,4.5,2295
+tt1850418,To Write Love on Her Arms,2012,102,US,6.5,3088
+tt1856101,Blade Runner 2049,2017,164,US,8.0,585834
+tt1859476,We Are Not Animals,2013,90,US,4.9,622
+tt1860242,The Highwaymen,2019,132,US,6.9,93923
+tt1860357,Deepwater Horizon,2016,107,US,7.1,172083
+tt1867093,The Samaritan,2012,90,GB,5.6,10038
+tt1872181,The Amazing Spider-Man 2,2014,142,US,6.6,504714
+tt1876277,Into the White,2012,104,US,7.1,21666
+tt1876409,Oblivion,2011,116,US,8.0,16
+tt1878917,The Pledge,2011,118,US,6.3,183
+tt1879066,Troubled Child,2012,100,US,5.4,265
+tt1883236,Heartlines,2012,100,US,6.2,26
+tt1885325,Beyond the Darkness,2018,95,US,4.0,270
+tt1893256,Redemption,2013,100,GB,6.2,73770
+tt1901024,Dark Crimes,2016,92,US,4.6,18884
+tt1905041,Fast & Furious 6,2013,130,GB,7.0,398630
+tt1911658,Penguins of Madagascar,2014,92,US,6.6,93847
+tt1927172,"Y/N: You Lie, You Die",2012,102,US,4.9,801
+tt1929276,Estranged,2015,92,GB,5.4,2630
+tt1934172,Heroes of Dirt,2015,98,US,7.1,114
+tt1937340,Beyond Paradise,2015,101,US,5.6,430
+tt1950186,Ford v Ferrari,2019,152,US,8.1,403295
+tt1951181,The Immigrant,2013,120,US,6.6,32559
+tt1954320,Carl[a],2011,100,US,6.8,49
+tt1954330,Random Acts of Violence,2012,86,US,5.7,411
+tt1954579,Reel Black Love,2011,70,US,7.9,22
+tt1964618,Greencard Warriors,2013,90,US,5.4,194
+tt1964630,The Evil Inside,2011,83,US,3.6,432
+tt1967651,Unconditional Love,2012,92,US,6.6,749
+tt1974419,The Neon Demon,2016,117,US,6.1,98003
+tt1975249,6 Bullets,2012,115,US,6.0,15223
+tt1985949,The Angry Birds Movie,2016,97,GB,6.3,95449
+tt1987547,Deceptz,2011,85,US,5.3,14
+tt1988781,7 Below,2012,90,US,3.1,4086
+tt1991180,Southbound Heist,2011,100,US,7.3,129
+tt2018136,Devil's Mile,2014,88,US,3.9,471
+tt2040578,Alien Uprising,2012,101,GB,3.0,3564
+tt2041331,SX_Tape,2013,82,US,3.4,2069
+tt2043814,Crazy Horse,2011,134,US,6.5,830
+tt2069955,Border Run,2012,96,US,4.2,1877
+tt2073661,Dawn Patrol,2014,88,US,4.7,822
+tt2081194,Hansel & Gretel Get Baked,2013,86,US,4.4,3754
+tt2088950,The Show,2017,104,US,5.6,5219
+tt2102496,Cabin Fever 3: Patient Zero,2014,91,US,4.4,7923
+tt2102497,The Fix,2017,100,US,6.2,62
+tt2103267,Adore,2013,112,US,6.2,35262
+tt2106476,The Hunt,2012,115,GB,8.3,334870
+tt2112096,Absolutely Fabulous: The Movie,2016,91,US,5.4,12768
+tt2118707,Pretty Perfect,2014,98,US,7.6,24
+tt2130182,The Next Deathwish: A Daughter's Revenge,2013,66,US,4.2,22
+tt2139881,Long Shot,2019,125,US,6.8,113298
+tt2140507,The Current War: Director's Cut,2017,108,US,6.5,28466
+tt2146590,Hollywood Nightmare,2012,105,US,5.1,59
+tt2170369,Dudes & Dragons,2015,122,US,4.7,1189
+tt2182211,Tomorrow Comes Today,2013,83,US,6.2,31
+tt2183034,Earth to Echo,2014,91,US,5.7,19304
+tt2189978,My Not So Irish Bride,2014,89,US,3.6,138
+tt2201221,Some Girl(S),2013,90,US,4.6,3707
+tt2201532,Guns for Hire,2015,83,US,4.7,1191
+tt2224383,Ombis: Alien Invasion,2013,85,US,3.7,539
+tt2233762,A World Not Ours,2012,93,GB,7.8,420
+tt2238174,The Redemption of the Fish,2013,90,US,7.8,13
+tt2238420,Jolene: The Indie Folk Star Movie,2014,88,GB,5.0,151
+tt2250234,SAGA: Curse of the Shadow,2013,111,US,4.9,3571
+tt2257816,Midnight Stallion,2013,97,US,5.1,412
+tt2258285,Two Men in Town,2014,117,US,5.7,2216
+tt2262275,The One Who Loves You,2013,95,US,8.1,60
+tt2262952,Lightning Strike,2012,104,US,5.3,640
+tt2273648,Adrenochrome,2017,85,US,4.5,524
+tt2275629,Cliffs of Freedom,2019,137,US,6.2,706
+tt2278870,Beyond the Edge,2016,119,US,3.6,1758
+tt2287677,Massacre County,2015,113,US,5.1,298
+tt2290739,The Devil's Hand,2014,86,US,5.0,4002
+tt2292196,Refuge,2013,74,GB,5.0,575
+tt2295318,Nomad: The Beginning,2013,87,US,3.2,239
+tt2296777,Sherlock Gnomes,2018,86,GB,5.2,12972
+tt2302416,In the Shadows,2017,117,GB,6.9,962
+tt2308583,Crying Wolf 3D,2015,91,GB,2.6,292
+tt2309722,The Crypt,2014,98,GB,2.9,127
+tt2316817,Dirty Weekend,2013,85,US,5.9,113
+tt2340946,Man Hunt,2016,86,GB,2.4,67
+tt2350892,Bad Country,2014,95,US,5.8,8856
+tt2353965,Frequency,2012,60,US,5.9,22
+tt2357866,Axeman,2013,103,US,3.2,291
+tt2366608,Lost River,2014,95,US,5.7,18502
+tt2367954,Strip Mahjong: Battle Royale,2011,77,US,4.0,221
+tt2368619,The Take,2016,92,US,6.3,45825
+tt2369041,Legendary,2013,92,GB,3.7,2304
+tt2370228,All I Need,2016,85,US,4.2,1339
+tt2380039,Code Name Venus,2012,90,GB,5.0,186
+tt2386490,How to Train Your Dragon: The Hidden World,2019,104,US,7.4,133198
+tt2387408,The Damned,2013,87,US,5.2,6536
+tt2388771,Mowgli: Legend of the Jungle,2018,104,GB,6.5,63168
+tt2392672,Reality,2014,95,US,6.9,6254
+tt2393817,Hard Shoulder,2012,82,GB,3.6,355
+tt2400098,400 Will Kill You! :),2015,90,US,2.1,17
+tt2402085,Jimi: All Is by My Side,2013,118,US,5.7,6820
+tt2404465,Troop Zero,2019,94,US,6.9,11201
+tt2412746,Revelation Road: The Beginning of the End,2013,88,US,4.6,1929
+tt2413338,Abducted,2013,96,US,4.5,545
+tt2443822,The Boy,2015,111,US,5.5,5517
+tt2452244,Isn't It Romantic,2019,89,US,5.9,71103
+tt2452386,The Fundamentals of Caring,2016,97,US,7.3,74544
+tt2469760,Cam2Cam,2014,91,US,3.6,916
+tt2481498,"Extremely Wicked, Shockingly Evil and Vile",2019,110,US,6.7,96451
+tt2505294,Ask Me Anything,2014,100,US,6.0,12584
+tt2505818,An Evergreen Christmas,2014,98,US,5.8,460
+tt2510700,Palace of the Damned,2013,87,US,5.1,645
+tt2525156,Transylvanian Curse,2015,84,US,3.3,490
+tt2527336,Star Wars: Episode VIII - The Last Jedi,2017,152,US,6.9,638709
+tt2527338,Star Wars: Episode IX - The Rise of Skywalker,2019,141,US,6.5,457885
+tt2544472,Haunting of Cellblock 11,2014,85,US,4.3,819
+tt2548396,The Cloverfield Paradox,2018,102,US,5.5,107369
+tt2552394,Barney Thomson,2015,96,GB,6.2,6206
+tt2554714,Haunting of the Innocent,2014,97,US,2.5,452
+tt2609758,A Madea Christmas,2013,100,US,5.0,6691
+tt2634414,Alligator Alley,2013,88,US,3.6,809
+tt2652118,"Crouching Tiger, Hidden Dragon: Sword of Destiny",2016,96,US,6.1,19982
+tt2690226,The Chaperone,2018,108,US,6.6,1708
+tt2698966,The Debt,2015,99,US,6.1,765
+tt2709692,The Grinch,2018,85,US,6.4,76915
+tt2713778,Cathedrals of Culture,2014,165,US,6.9,273
+tt2723176,Hide & Seek,2014,82,GB,4.5,1132
+tt2784678,Top Five,2014,102,US,6.4,26972
+tt2822672,Rock Dog,2016,90,US,5.9,5608
+tt2833580,The Girl,2016,79,US,2.9,256
+tt2837574,The Old Man & the Gun,2018,93,US,6.7,47212
+tt2872750,Shaun the Sheep Movie,2015,85,GB,7.3,41545
+tt2908090,ZK: Elephant's Graveyard,2015,104,US,2.9,481
+tt2926810,ABCs of Death 2,2014,125,US,5.4,8806
+tt2933544,5 Flights Up,2014,88,US,6.2,10787
+tt2935516,Money,2017,90,US,6.5,439
+tt2949196,I Lived,2015,97,US,4.5,868
+tt2980706,Planes: Fire & Rescue,2014,83,GB,5.9,18639
+tt3036600,Panic 5 Bravo,2013,84,US,4.5,264
+tt3057572,Of Mind and Music,2014,98,US,7.0,418
+tt3068192,Grace: The Possession,2014,87,US,4.6,3523
+tt3077214,Suffragette,2015,106,GB,6.9,42935
+tt3082920,My Sister,2014,109,US,6.7,335
+tt3120280,Sierra Burgess Is a Loser,2018,105,US,5.8,39748
+tt3132422,Beginner's Guide to Sex,2015,92,US,3.4,638
+tt3148502,Tamasha,2015,139,US,7.3,28618
+tt3149038,A Brilliant Young Mind,2014,111,GB,7.1,29543
+tt3157640,Bunker: Project 12,2016,97,US,3.4,497
+tt3183660,Fantastic Beasts and Where to Find Them,2016,132,GB,7.2,481796
+tt3198454,The Stone Boy,2015,71,US,5.2,83
+tt3228450,The Curse of All Hallows' Eve,2017,82,US,5.8,15
+tt3256226,IO,2019,96,US,4.8,35007
+tt3263718,Across the Sea,2014,105,US,6.1,1096
+tt3264494,Friend 2,2013,124,US,6.2,604
+tt3297382,The Crash,2017,84,US,4.2,1656
+tt3401392,The Devotion of Suspect X,2017,112,US,6.2,902
+tt3405236,Raees,2017,143,US,6.6,46341
+tt3416532,A Monster Calls,2016,108,US,7.4,89821
+tt3422314,The First Line,2014,91,US,4.7,319
+tt3433632,SK1,2014,120,US,6.6,2604
+tt3435612,Thursday & 12,2014,103,US,5.9,796
+tt3448124,Dollface,2014,94,US,3.2,408
+tt3463250,Farewell,2014,90,US,7.3,126
+tt3468298,Axel: The Biggest Little Hero,2013,80,US,4.4,144
+tt3469284,Jurassic Prey,2015,87,US,1.8,771
+tt3474788,The Gift,2014,113,GB,7.5,682
+tt3477762,Boundaries,2016,100,US,6.2,266
+tt3501632,Thor: Ragnarok,2017,130,US,7.9,761413
+tt3526286,#Horror,2015,97,US,3.0,3758
+tt3526470,The Operative,2015,97,US,5.5,529
+tt3530978,Correspondence,2016,122,US,6.1,4570
+tt3549566,American Poltergeist 3,2015,84,US,3.0,924
+tt3569356,Not Cool,2014,93,US,3.6,5847
+tt3570012,A.K.A Nadia,2015,115,GB,6.4,140
+tt3633118,Guardians of Oz,2015,86,GB,4.6,264
+tt3682448,Bridge of Spies,2015,142,US,7.6,314905
+tt3689590,Blood in the Water,2016,91,US,4.3,776
+tt3692082,Little Horror Movie,2018,84,US,4.1,5823
+tt3699702,The Divorce Party,2019,93,US,5.1,708
+tt3713166,Unfriended,2014,83,US,5.6,77379
+tt3717252,Underworld: Blood Wars,2016,91,US,5.7,77460
+tt3748528,Rogue One: A Star Wars Story,2016,133,US,7.8,647034
+tt3824648,Big Time Adolescence,2019,91,US,6.9,14326
+tt3829920,Only the Brave,2017,134,US,7.6,71744
+tt3861390,Dumbo,2019,112,GB,6.3,77846
+tt3882082,The Boy,2016,97,US,6.0,95065
+tt3891218,Colliding Dreams,2015,134,US,7.1,112
+tt3896198,Guardians of the Galaxy Vol. 2,2017,136,US,7.6,690467
+tt3962252,Tourbillon,2016,86,US,5.9,31
+tt3978152,Miracle in the Valley,2016,96,US,6.2,95
+tt3978720,4th Man Out,2015,86,US,6.7,10502
+tt4019560,Exposed,2016,102,US,4.3,16008
+tt4060244,In God's Time,2015,90,US,4.8,122
+tt4085084,Disorder,2015,98,US,6.2,6476
+tt4115932,Hollywood Adventures,2015,114,US,4.9,677
+tt4116284,The Lego Batman Movie,2017,104,US,7.3,155526
+tt4139588,Polar,2019,118,US,6.3,92311
+tt4154664,Captain Marvel,2019,123,US,6.8,567605
+tt4154756,Avengers: Infinity War,2018,149,US,8.4,1094492
+tt4154796,Avengers: Endgame,2019,181,US,8.4,1147208
+tt4169146,Give Me Liberty,2019,110,US,6.7,2078
+tt4192896,The Passing,2015,89,GB,6.0,383
+tt4196576,Chainsaw Maidens from Hell,2016,77,US,5.2,49
+tt4209174,Chimera Strain,2018,80,US,4.3,1282
+tt4258292,Yennai Arindhaal,2015,168,US,7.3,9951
+tt4263482,The Witch,2015,92,US,6.9,269639
+tt4285988,The Price,2015,145,US,5.0,99
+tt4302938,Kubo and the Two Strings,2016,101,US,7.7,131479
+tt4341532,The Phoenix Incident,2015,81,US,4.9,3176
+tt4353250,The Last Black Man in San Francisco,2019,121,US,7.3,20123
+tt4426738,Animals,2019,109,GB,6.1,2123
+tt4460792,Calm with Horses,2019,100,US,6.8,6187
+tt4475992,Tank 432,2015,88,GB,3.3,2022
+tt4500922,Maze Runner: The Death Cure,2018,143,US,6.2,145123
+tt4504044,The Prodigy,2019,92,US,5.9,27064
+tt4521338,The Rizen: Possession,2019,90,GB,3.3,180
+tt4572700,Mother Krampus 2: Slay Ride,2018,96,US,3.2,280
+tt4575576,Christopher Robin,2018,104,US,7.2,79618
+tt4587656,The Star,2017,86,US,6.2,8619
+tt4633694,Spider-Man: Into the Spider-Verse,2018,117,US,8.4,540923
+tt4642192,The Keeper,2018,120,US,7.2,5827
+tt4677244,The Gandhi Murder,2019,118,GB,4.4,173
+tt4701724,Early Man,2018,89,GB,6.1,22688
+tt4706780,Red Dog,2017,99,US,4.9,131
+tt4717402,MFKZ,2017,94,GB,6.7,4737
+tt4743226,Air Strike,2018,120,US,3.2,4532
+tt4765284,Pitch Perfect 3,2017,93,US,5.8,66150
+tt4777008,Maleficent: Mistress of Evil,2019,119,GB,6.6,108180
+tt4807408,The Best of Enemies,2019,133,US,7.3,17723
+tt4824256,Blackbear,2019,94,US,4.4,783
+tt4912910,Mission: Impossible - Fallout,2018,147,US,7.7,338152
+tt4913966,The Curse of La Llorona,2019,93,US,5.2,51976
+tt4938374,Open Season: Scared Silly,2015,84,US,5.0,3325
+tt4972582,Split,2016,117,US,7.3,507748
+tt4975920,The Kid,2019,100,US,5.9,8861
+tt4992060,Compulsion,2016,84,GB,3.8,1642
+tt5000698,Marriage of Lies,2016,102,US,5.0,490
+tt5013056,Dunkirk,2017,106,US,7.8,669336
+tt5013984,Gully,2019,84,US,2.5,20189
+tt5017008,My Grandmother Fanny Kaplan,2016,110,US,6.3,143
+tt5027774,"Three Billboards Outside Ebbing, Missouri",2017,115,GB,8.1,515500
+tt5037840,Drunk Parents,2019,97,US,4.0,7462
+tt5052448,Get Out,2017,104,US,7.7,624152
+tt5052474,Sicario: Day of the Soldado,2018,122,GB,7.0,152095
+tt5061570,Hostile Border,2015,88,US,5.4,593
+tt5070062,I'll Find You,2019,116,US,7.3,354
+tt5078354,Cezanne et Moi,2016,117,US,6.1,1325
+tt5093026,Papillon,2017,133,US,7.2,78145
+tt5117428,Wild Rose,2018,101,GB,7.1,14356
+tt5171500,The Library Suicides,2016,87,GB,5.4,189
+tt5176580,Wild Nights with Emily,2018,84,US,6.2,1340
+tt5208252,Operation Finale,2018,122,US,6.6,43944
+tt5215088,A.I. Rising,2018,85,US,4.9,11058
+tt5270948,Chappaquiddick,2017,106,US,6.4,13858
+tt5300754,Fairytale of New York,2017,99,US,5.3,80
+tt5316540,Close,2019,94,GB,5.7,25570
+tt5390246,Heartbeat,2017,88,US,4.1,540
+tt5431890,Official Secrets,2019,112,GB,7.3,49288
+tt5453522,Alien Code,2018,97,US,5.7,3179
+tt5459382,The Etruscan Smile,2018,107,GB,6.9,1836
+tt5460522,JT LeRoy,2018,108,US,5.5,2630
+tt5463162,Deadpool 2,2018,119,US,7.7,591365
+tt5494608,Signature Work,2016,76,US,5.7,24
+tt5524630,The Brave,2019,103,US,5.1,1055
+tt5544018,"Adrian Street Story: You May Be Pretty, But I Am Beautiful",2019,72,GB,7.5,85
+tt5554998,Egomaniac,2016,72,GB,5.6,73
+tt5577494,Clemency,2019,112,US,6.5,4753
+tt5580390,The Shape of Water,2017,123,US,7.3,425723
+tt5645536,Love and Other Cults,2017,95,GB,6.1,339
+tt5657846,Daddy's Home 2,2017,100,US,6.0,76578
+tt5664636,Goosebumps 2: Slappy's Revenge,2018,90,US,5.6,21934
+tt5719748,Cold Pursuit,2019,119,GB,6.2,71327
+tt5813808,A Detour for Christmas,2016,96,US,4.6,215
+tt5814534,Spies in Disguise,2019,102,US,6.8,51102
+tt5841964,Monkey King,2016,98,US,4.6,178
+tt5848416,Walk. Ride. Rodeo.,2019,100,US,6.4,2549
+tt5855772,Sunset,2018,142,US,6.3,4394
+tt5882982,Memoirs of a Murderer,2017,118,US,6.8,2119
+tt5886046,Escape Room,2019,99,US,6.4,126327
+tt5913798,Wounds,2019,95,US,4.1,19997
+tt5932728,The Professor and the Madman,2019,124,US,7.2,47402
+tt5936578,Saints Rest,2018,85,US,6.6,135
+tt5968394,Captive State,2019,109,US,6.0,55199
+tt5969180,I Hate Kids,2019,89,US,5.1,2139
+tt5978724,My Days of Mercy,2017,108,GB,6.5,5186
+tt5996652,Santa Claus: A Horror Story,2016,125,US,2.9,90
+tt6020428,The Pagan King: The Battle of Death,2018,114,GB,6.0,2365
+tt6063090,Light of My Life,2019,119,US,6.6,14150
+tt6067752,Lucifer,2019,175,US,7.5,11569
+tt6069162,Here and Now,2018,91,US,4.5,1700
+tt6101602,Madeline's Madeline,2018,93,US,6.4,3924
+tt6107548,Late Night,2019,102,US,6.5,38777
+tt6133484,Raakshas,2018,115,US,7.4,50
+tt6139732,Aladdin,2019,128,US,6.9,270701
+tt6143998,Comeback,2016,89,US,6.8,140
+tt6149936,The Lullaby,2017,86,US,4.0,1689
+tt6155456,Juanita,2019,90,US,6.0,2457
+tt6156498,Los Domirriqueños 2,2019,107,US,5.5,49
+tt6294226,Stray,2019,89,US,4.8,882
+tt6316466,Adam,2019,95,US,4.2,1655
+tt6330246,School of Life,2017,116,US,6.9,1701
+tt6398184,Downton Abbey,2019,122,GB,7.4,58143
+tt6421118,Alright Now,2018,95,US,4.2,611
+tt6424188,Betsy,2018,81,US,3.1,183
+tt6428150,High Strung Free Dance,2016,103,US,6.8,2082
+tt6469960,An Imperfect Murder,2017,71,US,3.0,1826
+tt6472976,Five Feet Apart,2019,116,US,7.2,70578
+tt6476140,Serenity,2019,106,GB,5.4,42384
+tt6494344,A Wizard's Tale,2018,97,US,4.6,787
+tt6513120,Fighting with My Family,2019,108,GB,7.1,82957
+tt6514010,Long Live Brij Mohan,2017,105,US,6.6,3817
+tt6518886,Love Is a Broadway Hit,2017,103,US,5.2,27
+tt6566768,Native Son,2019,104,US,5.7,2615
+tt6667360,Carnage,2017,68,GB,7.6,1509
+tt6679794,Outlaw King,2018,121,GB,6.9,74468
+tt6705860,Diane,2018,95,US,6.8,1583
+tt6741568,Number One,2017,110,GB,5.9,585
+tt6781638,Blue,2018,76,US,6.7,194
+tt6811018,The Kid Who Would Be King,2019,120,GB,6.1,17471
+tt6823368,Glass,2019,129,US,6.6,248495
+tt6854966,Little Heroes,2017,76,US,7.7,19
+tt6857112,Us,2019,116,US,6.8,307018
+tt6857250,Fantastica: A Boonie Bears Adventure,2017,89,US,5.6,211
+tt6886080,To the Stars,2019,109,US,6.2,1831
+tt6913168,Belleville Cop,2018,111,US,5.0,2869
+tt6920356,The Souvenir,2019,120,GB,6.4,13344
+tt6954136,Intuitions,2019,90,US,3.7,266
+tt6974888,Driven to Dance,2018,98,US,5.6,1197
+tt6977338,Good Boys,2019,90,US,6.7,75799
+tt6988116,Kalank,2019,166,US,3.5,16152
+tt7007696,Share,2019,87,US,5.7,2071
+tt7009250,Her Son's Secret,2018,87,US,5.6,631
+tt7019942,Super Deluxe,2019,176,US,8.3,15575
+tt7033170,Wasteland,2018,99,GB,6.0,68
+tt7043012,Velvet Buzzsaw,2019,113,US,5.7,62778
+tt7051624,For Love or Money,2019,95,GB,5.6,1585
+tt7054636,A Madea Family Funeral,2019,109,US,4.6,4675
+tt7108976,Detective K: Secret of the Living Dead,2018,120,US,6.1,509
+tt7141148,Porthole,2018,90,US,3.6,156
+tt7201744,As I Am,2019,125,GB,6.2,835
+tt7218564,Destined to Ride,2018,85,US,5.5,269
+tt7225608,The Last Nazi,2019,123,US,3.7,80
+tt7250056,Non-Fiction,2018,108,US,6.4,5443
+tt7279188,Woman at War,2018,101,US,7.4,10449
+tt7284202,Trespassers,2018,88,US,4.9,2470
+tt7297956,Dark is the Night,2017,115,US,6.1,45
+tt7297958,A Fish Out of Water,2017,90,US,6.0,62
+tt7297960,Shuttle Life,2017,91,US,6.6,293
+tt7298400,Ash Is Purest White,2018,136,US,7.0,9803
+tt7313348,Them That Follow,2019,98,US,5.4,3621
+tt7315570,Santa Girl,2019,90,US,5.0,1342
+tt7332500,Ghost of the Mountains,2017,78,US,7.0,311
+tt7339248,The Art of Self-Defense,2019,104,US,6.6,38634
+tt7347846,The Lodge,2019,108,GB,6.0,50005
+tt7374952,El Chicano,2018,144,US,5.4,1466
+tt7427356,The Last Laugh,2019,98,US,5.6,6516
+tt7468056,The Outlaws,2017,121,US,7.2,9358
+tt7477788,One Man Dies a Million Times,2019,92,US,6.1,132
+tt7533152,The Boy Who Harnessed the Wind,2019,113,GB,7.6,39706
+tt7543138,Exploitation,2018,111,US,3.8,79
+tt7594568,Your Mother Should Know,2018,92,US,6.0,534
+tt7616148,Luce,2019,109,US,6.6,13806
+tt7634968,What Men Want,2019,117,US,5.3,28583
+tt7671064,Brittany Runs a Marathon,2019,104,US,6.8,20777
+tt7698468,A Call to Spy,2019,123,US,6.6,8405
+tt7705110,The Dreaming Man,2017,101,US,7.9,19
+tt7802246,The Last Tree,2019,98,GB,6.5,1173
+tt7967412,Eye for an Eye,2019,107,US,6.6,8028
+tt7985692,After the Wedding,2019,112,US,6.3,7982
+tt8041276,Paddleton,2019,89,US,7.2,14446
+tt8076344,Penguin Highway,2018,117,US,7.1,3295
+tt8080302,Penguins,2019,76,US,7.1,1742
+tt8084572,Deadly Patient,2018,86,US,4.9,267
+tt8096832,Lady and the Tramp,2019,111,US,6.2,22573
+tt8128188,High Flying Bird,2019,90,US,6.2,8874
+tt8151874,Honey Boy,2019,94,US,7.2,38550
+tt8155288,Happy Death Day 2U,2019,100,US,6.2,77252
+tt8193790,Deerskin,2019,77,US,6.6,10327
+tt8236336,The Report,2019,119,US,7.2,45115
+tt8255490,Christmas Survival,2018,101,US,5.1,1045
+tt8323104,Nancy Drew and the Hidden Staircase,2019,89,US,5.7,5026
+tt8351452,Dating to Kill,2019,120,US,4.9,352
+tt8366502,Corporate Animals,2019,86,US,4.4,3809
+tt8484012,Sword of Trust,2019,88,US,6.3,3851
+tt8485772,Porno,2019,98,US,5.1,2305
+tt8550208,Romeo Akbar Walter,2019,141,US,6.6,5998
+tt8552226,Scarecrow's Revenge,2019,93,GB,2.0,156
+tt8637428,The Farewell,2019,100,US,7.5,66148
+tt8650976,Guest Artist,2019,74,US,5.4,343
+tt8672516,National Theatre Live: Antony & Cleopatra,2018,220,GB,7.3,464
+tt8745960,Daniel Isn't Real,2019,100,US,6.1,9133
+tt8748236,Killer Cove,2019,87,US,4.4,556
+tt8752474,Justice League vs the Fatal Five,2019,77,US,6.5,9686
+tt8769848,The Tomorrow Man,2019,94,US,5.8,2007
+tt8772262,Midsommar,2019,148,US,7.1,335122
+tt8785322,Manje Bistre 2,2019,125,US,5.2,276
+tt8816178,Blush,2019,101,US,4.9,498
+tt8887846,The King and I,2018,160,GB,8.0,375
+tt8948790,Jersey,2019,157,US,8.5,18965
+tt8949056,"Yes, God, Yes",2019,78,US,6.1,16317
+tt8970448,Adopt a Highway,2019,81,US,6.3,4307
+tt9010802,If I Were Rich Man,2019,98,GB,4.9,1413
+tt9049042,The Tunnel,2019,105,US,6.0,5656
+tt9080630,Girl/Girl Scene,2019,122,US,2.4,300
+tt9165332,Chitralahari,2019,131,US,7.1,2407
+tt9177882,Constantine: City of Demons - The Movie,2018,90,US,7.3,7963
+tt9318280,Driveways,2019,83,US,7.2,5565
+tt9342846,Being Taken - Director's Cut (2021),2018,77,US,5.9,230
+tt9352926,The Sound of Silence,2019,88,US,5.7,1453
+tt9358160,Light from Light,2019,82,US,6.0,820
+tt9558612,PM Narendra Modi,2019,136,US,3.0,8242
+tt9608818,Our Friend,2019,124,US,7.3,12942
+tt9626278,Fourteen,2019,94,US,6.7,896
+tt9735758,Get Duked!,2019,87,GB,6.2,7930
+tt9815714,The Hard Way,2019,92,US,4.8,3482
