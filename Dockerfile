@@ -1,12 +1,8 @@
-FROM python:3.9-alpine
+FROM python:3.9-slim
 
 RUN mkdir -p /app
 WORKDIR /app
 
-RUN apk update && \
-    apk add --no-cache postgresql-libs && \
-    apk add --no-cache --virtual .build-deps gcc musl-dev postgresql-dev && \
-    python -m pip install --upgrade pip
 COPY requirements.txt ./requirements.txt
 RUN pip install -r ./requirements.txt
 
